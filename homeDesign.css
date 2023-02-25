@@ -1,0 +1,17 @@
+.navBar{
+    background-color: #5aa151; 
+    overflow: hidden;
+}
+
+.navBar a{
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.firstText{
+    color:rgb(255, 60, 0);
+}

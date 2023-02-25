@@ -65,3 +65,9 @@
       margin-bottom: 20px;
     }
 }
+
+footer{
+    padding:5px;
+    background-color: #5aa151; 
+    overflow: hidden;
+}
